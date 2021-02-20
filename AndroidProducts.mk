@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/potato_miatoll.mk
+    $(LOCAL_DIR)/ascendant_miatoll.mk
 
 COMMON_LUNCH_CHOICES := \
-    potato_miatoll-user \
-    potato_miatoll-userdebug \
-    potato_miatoll-eng
+    ascendant_miatoll-user \
+    ascendant_miatoll-userdebug \
+    ascendant_miatoll-eng

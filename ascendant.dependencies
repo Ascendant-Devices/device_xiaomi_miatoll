@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "Ascendant-Devices/kernel_xiaomi_sm6250",
+    "target_path": "kernel/xiaomi/sm6250",
+    "branch": "eleven"
+  },
+  {
+    "remote": "github",
+    "repository": "Ascendant-Devices/device_xiaomi_sm6250-common",
+    "target_path": "device/xiaomi/sm6250-common",
+    "branch": "eleven"
+  }
+]
